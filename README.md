@@ -15,9 +15,9 @@ $ python2 xxx.py<br>
 $ username : XXX<br>
 $ password : XXX<br><br>
 <h1>Multi id cloning</h1><br>
-<img src="https://github.com/DavidKumar45/XXX/blob/master/Screenshot_20220223-071325.png"/>
+<img src="https://github.com/DavidKumar45/XXX/blob/main/Screenshot_20220223-071325.png"/>
 <br><h1>Sim number code cloning</h1><br>
-<img src="https://github.com/DavidKumar45/XXX/blob/master/Raw/Screenshot_20220223-070155.png"/>
+<img src="https://github.com/DavidKumar45/XXX/blob/main/Raw/Screenshot_20220223-070155.png"/>
 <h1><a href ="https://www.facebook.com/groups/424459056032458/
 ">My group on Facebook</a></h1>
 <a href ="https://www.facebook.com/profile.php?id=100063716716333
